@@ -19,9 +19,18 @@ td {
 ul {
 	list-style-type: none;
 }
+.custom-nav 
+  {
+	height:50px;
+	font-size:20px;
+  }
+  
+  .custom-nav:hover {
+	color: whitesmoke; 
+  }
 
 .btn-space {
-	margin-right: 5px;
+	margin-right: 20px;
 }
 
 #update {
@@ -31,8 +40,8 @@ ul {
 
 .wall {
 	transition : background-color 0.1s ease-in-out;
-	background-color: #262b28;
-	border-color: #262b28;
+	background-color: grey;
+	border-color: grey;
 }
 
 .none {
@@ -49,24 +58,24 @@ ul {
 
 .visited {
 	transition : background-color 0.08s ease-in-out;
-	background-color: #e89440;
-	border-color: #e89440;
+	background-color: lightblue;
+	border-color: lightblue;
 }
 
 .success {
 	transition : background-color 0.08s ease-in-out;
-	background-color: #ffee31;
-	border-color: #ffee31;
+	background-color: lightsalmon;
+	border-color: lightsalmon;
 }
 
 .start {
-	background-color: green;
-	border-color: green;
+	background-color: red;
+	border-color: red;
 }
 
 .end {
 	background-color: red;
-	border-color: red;
+	border-color : red;
 }
 
 #bigTableContainer {
