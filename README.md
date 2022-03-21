@@ -3,10 +3,15 @@
  Algorithm Visualizer is an interactive online platform that visualizes algorithms from code. Learning an algorithm gets much easier with visualizing it.
 # Features
  All the Basic and Advance Path Finding algorithms such as dijkstra,a*,bfs,dfs,etc are included.
+ 
  Fast, Medium, Slow and Step Wise execution for better understanding of Algorithm.
- we can create randomized and different types of mazes
+ 
+ we can create randomized and different types of mazes.
+ 
  we also have a tutorial at start to teach the flow of the tool and how to use it using visuals.
+ 
  Informative Links Have been provided for algorithms to get to know them first if you have not heard about them.
+ 
  # Objective
  The Project's objective is to go from the start node to the end node using a pathfinding algorithm. The program can only move horizontally or vertically, with each       movement having a cost of one.
  Once the algorithm is complete, the shortest path will be illuminated in Orange.
